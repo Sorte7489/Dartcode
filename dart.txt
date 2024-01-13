@@ -1,0 +1,16 @@
+void main()
+{
+     // valid variable
+     var name = "Sanjay";
+     var f_name= "Bhan singh";
+     var addres1="Bhopal";
+     var $mony=200;
+     print(name);
+    print(f_name);
+    print(addres1);
+    print($mony);
+     // in valide variable
+     // var 3parson="sanjay";
+     //var my name ="Sanjay singh";
+     
+}
